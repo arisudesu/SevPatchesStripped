@@ -1,7 +1,10 @@
 package tv.darkosto.sevpatches.core.hooks;
 
 import com.tmtravlr.jaff.ConfigOptions;
-import com.tmtravlr.jaff.entities.*;
+import com.tmtravlr.jaff.entities.EntityFishClownfish;
+import com.tmtravlr.jaff.entities.EntityFishCod;
+import com.tmtravlr.jaff.entities.EntityFishPufferfish;
+import com.tmtravlr.jaff.entities.EntityFishSalmon;
 import net.minecraft.entity.EntityLiving;
 import net.minecraft.entity.EntitySpawnPlacementRegistry;
 import net.minecraft.entity.EnumCreatureType;

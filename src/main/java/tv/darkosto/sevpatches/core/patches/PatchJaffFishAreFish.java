@@ -1,12 +1,7 @@
 package tv.darkosto.sevpatches.core.patches;
 
 import org.objectweb.asm.Opcodes;
-import org.objectweb.asm.tree.FieldInsnNode;
-import org.objectweb.asm.tree.InsnList;
-import org.objectweb.asm.tree.InsnNode;
-import org.objectweb.asm.tree.MethodInsnNode;
-import org.objectweb.asm.tree.MethodNode;
-import org.objectweb.asm.tree.VarInsnNode;
+import org.objectweb.asm.tree.*;
 import tv.darkosto.sevpatches.core.SevPatchesLoadingPlugin;
 import tv.darkosto.sevpatches.core.utils.AsmUtils;
 
